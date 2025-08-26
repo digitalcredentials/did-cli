@@ -13,6 +13,8 @@
 
 ## Background
 
+**NOTE:** Currently only works with Node v20 or lower. Issue filed (#5).
+
 ### Features
 
 * Create and store Ed25519 cryptographic key pairs (useful for DIDs, VCs, zCaps and more).
